@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MademVenkateswaraReddy/enable-assi-7/static/css/main.f855e6bc.css",
-    "main.js": "/MademVenkateswaraReddy/enable-assi-7/static/js/main.6061e44a.js",
-    "static/js/787.f5cd5acb.chunk.js": "/MademVenkateswaraReddy/enable-assi-7/static/js/787.f5cd5acb.chunk.js",
-    "index.html": "/MademVenkateswaraReddy/enable-assi-7/index.html",
-    "main.f855e6bc.css.map": "/MademVenkateswaraReddy/enable-assi-7/static/css/main.f855e6bc.css.map",
-    "main.6061e44a.js.map": "/MademVenkateswaraReddy/enable-assi-7/static/js/main.6061e44a.js.map",
-    "787.f5cd5acb.chunk.js.map": "/MademVenkateswaraReddy/enable-assi-7/static/js/787.f5cd5acb.chunk.js.map"
+    "main.css": "/MademVenkateswaraReddy/enable-assi-7/counter-app/static/css/main.f855e6bc.css",
+    "main.js": "/MademVenkateswaraReddy/enable-assi-7/counter-app/static/js/main.5090df9c.js",
+    "static/js/787.f5cd5acb.chunk.js": "/MademVenkateswaraReddy/enable-assi-7/counter-app/static/js/787.f5cd5acb.chunk.js",
+    "index.html": "/MademVenkateswaraReddy/enable-assi-7/counter-app/index.html",
+    "main.f855e6bc.css.map": "/MademVenkateswaraReddy/enable-assi-7/counter-app/static/css/main.f855e6bc.css.map",
+    "main.5090df9c.js.map": "/MademVenkateswaraReddy/enable-assi-7/counter-app/static/js/main.5090df9c.js.map",
+    "787.f5cd5acb.chunk.js.map": "/MademVenkateswaraReddy/enable-assi-7/counter-app/static/js/787.f5cd5acb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.6061e44a.js"
+    "static/js/main.5090df9c.js"
   ]
 }
